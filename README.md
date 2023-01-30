@@ -6,11 +6,18 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I watched most of the movies in top 100 movie list at IMDB
 
-<br />
+---
 
 ### Connect with me:
 
-<br />
+[![website](./assets/twitter-light.svg )](https://twitter.com/aranelluinwe)
+&nbsp;&nbsp;
+[![website](./assets/linkedin-light.svg)](https://www.linkedin.com/in/mert-kantaroglu/)
+&nbsp;&nbsp;
+[![website](./assets/gmail.png)](https://mail.google.com/mail/u/0/#inbox?compose=new)
+&nbsp;&nbsp;
+
+---
 
 ### Languages and Tools:
 
@@ -22,8 +29,9 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 <br />
-<br />
 
+---
 ### GitHub Stats :zap: 
 
-  <img align="left" alt="Mert's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mertkantaroglu&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=mertkantaroglu&show_icons=true&include_all_commits=true&hide_border=true" alt="Mert's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertkantaroglu&langs_count=8&layout=compact&hide_border=true" alt="Mert's GitHub stats" /> |
+| ------------- | ------------- |
