@@ -1,25 +1,26 @@
-## Hi there! This is Mert. 👋
+<h1 align="center">Hi 👋, I'm Mert.</h1>
 
-- 🌱 I’m currently learning JavaScript / React / Ruby on Rails at Microverse
-- 👯 I’m looking to collaborate on open source projects
+- :man_technologist: I’m currently learning JavaScript / React / Ruby on Rails at [Microverse](https://github.com/microverseinc).
+- 🌍 I’m looking to collaborate on open source projects
 - 💬 Ask me about new technologies
 - 😄 Pronouns: He/him
+- 📫 How to reach me *mertkantaroglu@gmail.com*
 - ⚡ Fun fact: I watched most of the movies in top 100 movie list at IMDB
 
 ---
 
-### Connect with me:
+### :globe_with_meridians:	 Connect with me:
 
-[![website](./assets/twitter-light.svg )](https://twitter.com/aranelluinwe)
-&nbsp;&nbsp;
-[![website](./assets/linkedin-light.svg)](https://www.linkedin.com/in/mert-kantaroglu/)
-&nbsp;&nbsp;
-[![website](./assets/gmail.png)](https://mail.google.com/mail/u/0/#inbox?compose=new)
-&nbsp;&nbsp;
+<p align="left">
+<a href="https://twitter.com/aranelluinwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mert_twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mert-kantaroglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mert_linkedin" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mertkantaroglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mert_fb" height="30" width="40" /></a>
+<a href="https://instagram.com/mrt_kntrglu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mert_instagram" height="30" width="40" /></a>
+</p>
 
 ---
 
-### Languages and Tools:
+### :computer:  Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -31,7 +32,9 @@
 <br />
 
 ---
-### GitHub Stats :zap: 
+### :zap:  GitHub Stats 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=mertkantaroglu&show_icons=true&include_all_commits=true&hide_border=true" alt="Mert's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertkantaroglu&langs_count=8&layout=compact&hide_border=true" alt="Mert's GitHub stats" /> |
 | ------------- | ------------- |
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mertkantaroglu&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
