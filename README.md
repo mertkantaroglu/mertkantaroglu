@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mert.</h1>
 
 - :man_technologist: I’m currently learning JavaScript / React / Ruby on Rails at [Microverse](https://github.com/microverseinc).
-- 🌍 I’m looking to collaborate on open source projects
+- 🌍 I’m looking to collaborate on open-source projects
 - 💬 Ask me about new technologies
-- 😄 Pronouns: He/him
 - 📫 How to reach me *mertkantaroglu@gmail.com*
 - ⚡ Fun fact: I watched most of the movies in the top 100 movie list on IMDB
 
