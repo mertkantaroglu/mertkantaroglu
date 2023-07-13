@@ -19,16 +19,13 @@
 
 ---
 
-### :computer:  Languages and Tools:
+ <h2> <strong> ⚙️ Technologies and Skills </strong>
+    
+  <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
+  <img align="center" src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,ruby,rails,postgresql,git,github,vscode,netlify,bootstrap,jest " alt="skills logos" width="80%"/> 
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-
-<br />
+  <h3> <strong> Planning to Learn </strong></h3>
+  <img src="https://skillicons.dev/icons?i=ts,tailwind,nextjs,vue,svelte,aws,flutter" alt="skills planning to learn logos"> 
 
 ---
 ### :zap:  GitHub Stats 
