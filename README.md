@@ -22,7 +22,7 @@
  <h2> <strong> ⚙️ Technologies and Skills </strong>
     
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img align="center" src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,ruby,rails,postgresql,git,github,vscode,netlify,bootstrap,jest " alt="skills logos" width="80%"/> 
+  <img align="center" src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,ruby,rails,postgresql,git,github,vscode,netlify,bootstrap,jest " alt="skills logos"/> 
 
   <h3> <strong> Planning to Learn </strong></h3>
   <img src="https://skillicons.dev/icons?i=ts,tailwind,nextjs,vue,svelte,aws,flutter" alt="skills planning to learn logos"> 
