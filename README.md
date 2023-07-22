@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert.</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=1000&lines=Full+Stack+Web+Developer;Always+learning+new+things;Problem+solver" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=1000&lines=Full+Stack+Web+Developer;Always+learning+new+things;I+develop+efficient+web+applications;I+solve+problems" alt="Typing SVG" /></a>
 
 - :man_technologist: I’m currently learning JavaScript / React / Ruby on Rails at [Microverse](https://github.com/microverseinc).
 - 🌍 I’m looking to collaborate on open-source projects
