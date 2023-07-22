@@ -14,6 +14,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mert-kantaroglu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mert_linkedin" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mertkantaroglu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mert_fb" height="30" width="40" /></a>
+<a href="https://medium.com/@mertkantaroglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mert_medium" height="30" width="40" /></a>
 </p>
 
 ---
